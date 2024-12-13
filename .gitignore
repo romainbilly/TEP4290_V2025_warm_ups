@@ -1,0 +1,13 @@
+__pycache__/
+
+# personal archive
+archive/
+
+# standard
+*.py[cod]
+*$py.class
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*

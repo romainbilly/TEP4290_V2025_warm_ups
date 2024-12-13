@@ -1,0 +1,14 @@
+name: TEP4290_V2025
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - ipykernel
+  - numpy
+  - matplotlib
+  - pandas
+  - pandoc
+  - scipy
+  - typing
+  - scikit-learn
+prefix: C:\Users\nilsdi\Anaconda3\envs\TEP4290_V2025
